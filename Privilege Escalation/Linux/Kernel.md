@@ -1,7 +1,6 @@
 # Linux Kernel
 
 ### Exploiting the Kernel
-### استغلال الكيرنال
 
 - Kernel exploits are often leveraged by determining the kernel version and searching for known exploits that are specific to that version in case it is vulnerable.
 - يتم استغلال الكيرنال غالبًا من خلال معرفة إصدار الكيرنال والبحث عن اكسبلويت معروف خاص بتلك النسخة في حال كانت مصابه
