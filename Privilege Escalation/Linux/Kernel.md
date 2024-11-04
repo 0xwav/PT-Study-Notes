@@ -14,4 +14,4 @@
 
 You can use the **linux-exploit-suggester** tool to enumerate the system, similar to [**lenpees**](https://github.com/peass-ng/PEASS-ng/tree/master/linPEAS)
 
-يمكنك استخدام أداة  [**lenpees**](https://github.com/peass-ng/PEASS-ng/tree/master/linPEAS) لآتمتة جمع المعلومات
+يمكنك استخدام أداة  [**lenpees**](https://github.com/peass-ng/PEASS-ng/tree/master/linPEAS) لآتمتة عملية جمع المعلومات
